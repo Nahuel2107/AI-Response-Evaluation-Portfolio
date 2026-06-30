@@ -1,5 +1,5 @@
 # Accuracy
-
+ 
 ## Definition
 
 Accuracy measures whether the information provided by the AI is factually correct and free from errors.
