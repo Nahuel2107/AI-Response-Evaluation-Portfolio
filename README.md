@@ -1,48 +1,50 @@
-#AI Response Evaluation Portfolio
+# AI Response Evaluation Portfolio
 
-## Overview
+This portfolio contains practice examples focused on evaluating AI-generated responses using structured quality criteria.
 
-This repository documents my practical training in evaluating AI-generated responses using structured quality criteria.
+The main goal of this project is to develop practical skills for AI Training, AI Data Annotation, AI Response Evaluation, Content Quality Review, and Data Quality roles.
 
-The objective is to develop professional skills used in AI model evaluation, data annotation, and quality assessment.
+## Main Evaluation Criteria
 
----
-
-## Skills Demonstrated
-
-- AI Response Evaluation
-- Analytical Reasoning
-- Factual Verification
+- Accuracy
 - Instruction Following
-- Critical Thinking
-- Quality Assessment
-- Documentation
+- Clarity
+- Helpfulness
+- Safety
+- Reasoning
+- Written Justification
 
----
+## Skills Practiced
 
-## Repository Structure
+- AI response evaluation
+- Data annotation
+- Fact-checking
+- Prompt understanding
+- Rubric-based assessment
+- Comparative response analysis
+- Error detection
+- Written justification
+- Bilingual Spanish-English evaluation
 
-Evaluation_Guide/
+## Project Purpose
 
-Examples/
+This project demonstrates my ability to evaluate AI-generated responses based on clear, structured, and consistent criteria.
 
-Practice_Log/
+Each example includes:
 
-Resources/
+- A user prompt
+- Two AI-generated responses
+- An evaluation by criterion
+- A selected winner
+- A written justification
 
----
+## Current Focus
 
-## Technologies
+My current focus is improving evaluation quality in:
 
-- Markdown
-- GitHub
-- ChatGPT
-- Python (future integration)
-
----
-
-## Status
-
-🚧 This portfolio is currently under development.
-
-New evaluation examples and projects will be added as my training progresses.
+- Factual accuracy
+- Instruction following
+- Safety awareness
+- Logical reasoning
+- Clear written explanations
+- Professional English justifications
